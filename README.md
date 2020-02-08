@@ -12,7 +12,7 @@ explore and search marvel universe
 flutter 漫威Api客户端 app
 浏览与搜索漫威世界的
 </br>
-1.事件</br></br>
+1.事件</br>
 2.漫画</br>
 3.系列</br>
 4.人物</br>
