@@ -21,4 +21,12 @@ flutter 漫威Api客户端 app
 [click here](https://github.com/MaxNeverSleep/marvelAPI-flutter/blob/master/apk-dowload/app-debug.apk)
 
 # Screenshot
-<img height='430' width='270' src="https://github.com/MaxNeverSleep/marvelAPI-flutter/blob/master/screenshot/eventsTabPage.jpg"/>
+<img height='640' width='360' src="https://github.com/MaxNeverSleep/marvelAPI-flutter/blob/master/screenshot/eventsTabPage.jpg"/>
+
+![EventsTavPage](https://github.com/MaxNeverSleep/marvelAPI-flutter/blob/master/screenshot/eventsTabPage.jpg)
+![CharatersTabPage](https://github.com/MaxNeverSleep/marvelAPI-flutter/blob/master/screenshot/charatersTabPage.jpg)
+![CharactersSearchResultPage](https://github.com/MaxNeverSleep/marvelAPI-flutter/blob/master/screenshot/charactersSearchResultPage.jpg)
+![ComicsTabPage](https://github.com/MaxNeverSleep/marvelAPI-flutter/blob/master/screenshot/comicsTabPage.jpg)
+![DetailComicsSwiper](https://github.com/MaxNeverSleep/marvelAPI-flutter/blob/master/screenshot/detailComicsSwiper.jpg)
+![EventDetailPage](https://github.com/MaxNeverSleep/marvelAPI-flutter/blob/master/screenshot/eventDetailPage.jpg)
+![SeriesTabPage](https://github.com/MaxNeverSleep/marvelAPI-flutter/blob/master/screenshot/seriesTabPage.jpg)
