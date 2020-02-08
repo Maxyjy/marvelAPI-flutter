@@ -8,5 +8,4 @@ flutter 漫威Api客户端 app
 
 # Screenshot
 
-
-![](https://github.com/MaxNeverSleep/marvelAPI-flutter/blob/master/screenshot/eventsTabPage.jpg)
+![EventsTavPage](https://github.com/MaxNeverSleep/marvelAPI-flutter/blob/master/screenshot/eventsTabPage.jpg)
