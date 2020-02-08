@@ -20,7 +20,5 @@ flutter 漫威Api客户端 app
 # Apk Dowload
 [click here](https://github.com/MaxNeverSleep/marvelAPI-flutter/blob/master/apk-dowload/app-debug.apk)
 
-
 # Screenshot
-<img src="https://github.com/MaxNeverSleep/marvelAPI-flutter/blob/master/screenshot/eventsTabPage.jpg"></>
-
+<img height='960' width='540' src="https://github.com/MaxNeverSleep/marvelAPI-flutter/blob/master/screenshot/eventsTabPage.jpg"></>
