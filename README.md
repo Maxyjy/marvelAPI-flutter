@@ -36,12 +36,12 @@ flutter 漫威Api客户端 app</br>
 <img height='640' width='360' src="https://github.com/MaxNeverSleep/marvelAPI-flutter/blob/master/screenshot/seriesTabPage.jpg">
 
 # Packages
-  dio: ^2.1.0
-  crypto: ^2.1.4
-  flutter_easyrefresh: ^2.0.8
-  flutter_spinkit: ^4.1.0
-  cupertino_icons: ^0.1.2
-  json_annotation: ^1.1.0
-  get: ^1.6.3
-  flutter_webview_plugin: ^0.3.10+1
-  flutter_swiper: ^1.1.6
+  dio: ^2.1.0</br>
+  crypto: ^2.1.4</br>
+  flutter_easyrefresh: ^2.0.8</br>
+  flutter_spinkit: ^4.1.0</br>
+  cupertino_icons: ^0.1.2</br>
+  json_annotation: ^1.1.0</br>
+  get: ^1.6.3</br>
+  flutter_webview_plugin: ^0.3.10+1</br>
+  flutter_swiper: ^1.1.6</br>
