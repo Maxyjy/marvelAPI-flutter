@@ -14,11 +14,10 @@ flutter 漫威Api客户端 app
 
 
 
-
-
-
 # Apk Dowload
 [click here](https://github.com/MaxNeverSleep/marvelAPI-flutter/blob/master/apk-dowload/app-debug.apk)
+
+# 
 
 # Screenshot
 <img height='640' width='360' src="https://github.com/MaxNeverSleep/marvelAPI-flutter/blob/master/screenshot/eventsTabPage.jpg">
@@ -29,3 +28,13 @@ flutter 漫威Api客户端 app
 <img height='640' width='360' src="https://github.com/MaxNeverSleep/marvelAPI-flutter/blob/master/screenshot/eventDetailPage.jpg">
 <img height='640' width='360' src="https://github.com/MaxNeverSleep/marvelAPI-flutter/blob/master/screenshot/seriesTabPage.jpg">
 
+# Packages
+  dio: ^2.1.0
+  crypto: ^2.1.4
+  flutter_easyrefresh: ^2.0.8
+  flutter_spinkit: ^4.1.0
+  cupertino_icons: ^0.1.2
+  json_annotation: ^1.1.0
+  get: ^1.6.3
+  flutter_webview_plugin: ^0.3.10+1
+  flutter_swiper: ^1.1.6
