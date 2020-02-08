@@ -1,10 +1,15 @@
 # marvel_max
 a flutter marvel api client app
+explore and search marvel universe
+1.events
+2.comics
+3.series
+4.characters
+5.creators
+6.stories
 
 flutter 漫威Api客户端 app
-
 浏览与搜索漫威世界的
-
 1.事件
 2.漫画
 3.系列
