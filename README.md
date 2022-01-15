@@ -9,8 +9,8 @@ explore and search marvel universe
 5.creators</br>
 6.stories</br>
 
-flutter 漫威Api客户端 app</br>
-浏览与搜索漫威世界的
+使用Flutter开发的漫威客户端App</br>
+可供用户浏览、搜索漫威世界的各形式内容、资讯等
 </br>
 1.事件</br>
 2.漫画</br>
